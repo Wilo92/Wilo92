@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>Hi , I am Wilmer Restrepo </b><img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47208vbsx2xnxe4go2m9ypfg2kbenlo8ockyluz4lk&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="106"></h1>
+<h1 align="center"><b>Hi , I am Wilmer Restrepo </b><img src="https://media.giphy.com/media/l378yjDKofRszKaAw/giphy.gif" width="106"></h1>
 <!--  -->
 
 <p align="center">
