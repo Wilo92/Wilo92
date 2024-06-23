@@ -2,6 +2,10 @@
 <h1> Hi , I am Wilmer Restrepo</h1>
 <!--  -->
 
+![banner](github-header-image.png)
+
+
+
 <p align="center">
   <a href="https://github.com/Wilo92"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Wilmer+Restrepo..&hearts;++;System+Engineer,;Software+Developer,;I+am+from+Colombia,;Love+to+learn+new+stuffs..XD"></a>
 </p>
