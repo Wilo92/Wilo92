@@ -59,5 +59,5 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Wilo92&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@restrepo)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=restrepo)](https://github.com/anuraghazra/github-readme-stats)
 
