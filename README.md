@@ -22,7 +22,7 @@
 
 <br>
 
-- System Engineer, a passionate Self-taught Front-end and Back-end developer.
+- System Engineer Bachelor´s, a passionate Self-taught Front-end and Back-end developer.
 - Networks administrator.
 - Personal website [link](https://wilo92.github.io/myhdv/)
 - I’m currently open for an new job opportunity
