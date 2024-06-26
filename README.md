@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/Wilo92"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Wilmer+Restrepo..&hearts;++;System+Engineer,;Software+Developer,;I+am+from+Colombia,;Love+to+learn+new+stuffs..XD"></a>
+  <a href="https://github.com/Wilo92"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Wilmer+Restrepo..&hearts;++;System+Engineer,Software+Developer+jr;I+am+from+Colombia,;Love+to+learn+new+stuffs..XD"></a>
 </p>
 
 
@@ -22,7 +22,7 @@
 
 <br>
 
-- System Engineer Bachelor´s, a passionate Self-taught Front-end and Back-end developer.
+- System Engineer Bachelor´s, a passionate full stack developer.
 - Networks administrator.
 - Personal website [link](https://wilo92.github.io/myhdv/)
 - I’m currently open for an new job opportunity
