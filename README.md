@@ -62,7 +62,7 @@
 <br>
 <br>
 <br>
-PlanFree — only two weeks dashboard history
+
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=restrepo)](https://github.com/anuraghazra/github-readme-stats)
 
