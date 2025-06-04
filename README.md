@@ -26,6 +26,7 @@
 - Networks administrator.
 - Personal website [link](https://wilo92.github.io/myhdv/)
 - I’m currently open for an new job opportunity
+- html-css-php-mysql jr developer.
 
 <br><br>
 
