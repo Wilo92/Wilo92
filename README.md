@@ -52,7 +52,7 @@
 </a> <a href="https://www.facebook.com/will.restrepo.9" target="_blank" rel="noreferrer">
     <picture>
         <source media="(prefers-color-scheme: dark)"
-            srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+            srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" />
         <source media="(prefers-color-scheme: light)"
             srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" />
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg"
