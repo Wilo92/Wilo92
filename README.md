@@ -48,18 +48,39 @@
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Wilo92" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/www.linkedin.com/in/wilmer-restrepo-830544242" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="36" height="32" /> </picture> </a></p>
-</a> <a href="https://www.facebook.com/will.restrepo.9" target="_blank" rel="noreferrer">
-    <picture>
-        <source media="(prefers-color-scheme: dark)"
-            srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" />
-        <source media="(prefers-color-scheme: light)"
-            srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" />
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg"
-            width="36" height="32" />
-    </picture>
-</a></p>
-
+<p align="left">
+    <a href="https://www.github.com/Wilo92" target="_blank" rel="noreferrer">
+        <picture>
+            <source media="(prefers-color-scheme: dark)"
+                srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+            <source media="(prefers-color-scheme: light)"
+                srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"
+                width="32" height="32" />
+        </picture>
+    </a>
+    <a href="https://www.linkedin.com/in/www.linkedin.com/in/wilmer-restrepo-830544242" target="_blank"
+        rel="noreferrer">
+        <picture>
+            <source media="(prefers-color-scheme: dark)"
+                srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+            <source media="(prefers-color-scheme: light)"
+                srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"
+                width="36" height="32" />
+        </picture>
+    </a>
+    <a href="https://www.facebook.com/will.restrepo.9" target="_blank" rel="noreferrer">
+        <picture>
+            <source media="(prefers-color-scheme: dark)"
+                srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" />
+            <source media="(prefers-color-scheme: light)"
+                srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" />
+            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg"
+                width="36" height="32" />
+        </picture>
+    </a>
+</p>
 
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wilo92&show_icons=true&theme=radical)---->
