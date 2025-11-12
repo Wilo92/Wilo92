@@ -153,7 +153,7 @@
                 width="32" height="32" />
         </picture>
     </a>
-    <a href="https://www.linkedin.com/in/www.linkedin.com/in/wilmer-restrepo-830544242" target="_blank"
+    <a href="https://www.linkedin.com/in/wilmer-restrepo-830544242/" target="_blank"
         rel="noreferrer">
         <picture>
             <source media="(prefers-color-scheme: dark)"
@@ -191,4 +191,34 @@
 
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=restrepo)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+<!------lo nuevo------>
+
+
+<!-- ENCABEZADO: perfil -->
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wilo92&theme=github_dark)
+
+
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Wilo92&theme=tokyonight)
+
+
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Wilo92&theme=tokyonight)
+
+
+![Overview](https://github-profile-summary-cards.vercel.app/api/cards/overview?username=Wilo92&theme=github_dark)
+
+
+<!-- WakaTime (si tienes wakatime) -->
+[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=TU_USUARIO_WAKATIME&theme=tokyonight)](https://wakatime.com/@TU_USUARIO_WAKATIME)
+
+<!-- Trofeos y racha -->
+![Trophy](https://github-profile-trophy.vercel.app/?username=Wilo92&theme=tokyonight)
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=Wilo92&theme=tokyonight)
+
+
+
+
 
