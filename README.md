@@ -124,43 +124,13 @@
   [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Wilo92&bg_color=0D1117&color=00FFDB&line=00C9A7&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </p>
 
----
 
-## 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [Sistema de Turnos - Digiturno](https://github.com/Wilo92) | Gestión de turnos hospitalarios, implementación y análisis de rendimiento. | Laravel, MySQL, JS |
-| [Dashboard Financiero](https://github.com/Wilo92) | Visualización de indicadores con Power BI + backend en PHP. | Power BI, PHP, JS |
-| [Blog / Portfolio](https://wilo92.github.io/myhdv/) | Blog personal y portafolio con ejemplos y demos. | HTML, CSS, JS |
-
----
-
-## 🧾 Metrics & Social Proof
-- ⭐ Public repos: **13+** (mantener actualizado)  
-- 📈 Contributions (year): revisa tu activity graph arriba  
-- 🧩 Top languages: HTML, PHP, Jupyter Notebook, Java, Hack (visualizado en cards)
-
----
 
 ## 📫 Contact & Hire me
-- ✉️ Email: `tu_correo@ejemplo.com` (pon tu email real)  
+- ✉️ Email: wilmerrestrepoo@hotmail.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/wilmer-restrepo-830544242/  
 - 🌐 Portfolio: https://wilo92.github.io/myhdv/  
-
----
-
-## 💬 Developer Motto
-> "Code is like humor. When you have to explain it, it’s bad."  
-> 🚀 Let’s build something amazing together.
-
----
-
-### Notas rápidas (no visibles si copias tal cual al README)
-- Si quieres que el WakaTime muestre correctamente, confirma que tu perfil WakaTime es público y que el `username` usado (`restrepo`) es el correcto.  
-- `github-readme-metrics` / `lowlighter/metrics` pueden requerir personalización adicional (templates/themes) — si quieres, te preparo la URL exacta con la configuración que prefieras.  
-- Para alinear tarjetas en filas o columnas, puedes envolver imágenes en una `<table>` o usar HTML `<div>` con `align` si lo prefieres.  
-- Si quieres que reemplace alguno de los bloques originales por versiones más pulidas (por ejemplo: sustituir el `top-langs` original por la card de `repos-per-language`) dímelo y lo ajusto manteniendo todo lo demás.
 
 
 
