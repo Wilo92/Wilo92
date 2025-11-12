@@ -23,9 +23,10 @@
 <br>
 
 - System Engineer Bachelor´s, a passionate full stack developer.
+- Specialization in software development
 - Networks administrator.
 - Personal website [link](https://wilo92.github.io/myhdv/)
-- - html-css-php-mysql jr developer.
+- - html-css-php-mysql-laravel-react jr developer.
 - I’m currently open for an new job opportunity
 
 
