@@ -126,10 +126,10 @@
 
 <!-- Cypress -->
 <a href="https://www.cypress.io/" target="_blank" rel="noreferrer">
-  <img href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-original.svg?raw=true"
        width="36" height="36" alt="Cypress" />
-	
 </a>
+
 
 
 
