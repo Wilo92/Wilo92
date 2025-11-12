@@ -130,11 +130,6 @@
        width="36" height="36" alt="Cypress" />
 </a>
 
-<!-- Power BI -->
-<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg"
-       width="36" height="36" alt="Power BI" />
-</a>
 
 <!-- Jupyter -->
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
@@ -148,10 +143,6 @@
        width="36" height="36" alt="Cypress" />
 </a>
 
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-  <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" width="36" height="36">
-    <title>Jupyter</title>
-    <path d="M7.157 22.201A1.784 1.799 0 0 1 5.374 24a1.784 1.799 0 0 1-1.784-1.799 1.784 1.799 0 0 1 1.784-1.799 1.784 1.799 0 0 1 1.783 1.799zM20.582 1.427a1.415 1.427
 
 
 </p>
