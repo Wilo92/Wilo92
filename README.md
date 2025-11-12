@@ -26,7 +26,7 @@
 - Specialization in software development
 - Networks administrator.
 - Personal website [link](https://wilo92.github.io/myhdv/)
-- - html-css-php-mysql-laravel-react jr developer.
+- - PHP / Laravel / JavaScript / React / HTML / CSS / SQL / Power BI /Jupyter Notebook / Cyprees / Git.
 - I’m currently open for an new job opportunity
 
 
@@ -94,6 +94,43 @@
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg"
             width="36" height="36" alt="Linux" />
     </a>
+
+	<!-- Laravel -->
+<a href="https://laravel.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg"
+        width="36" height="36" alt="Laravel" />
+</a>
+
+<!-- JavaScript -->
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"
+        width="36" height="36" alt="JavaScript" />
+</a>
+
+<!-- React -->
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"
+        width="36" height="36" alt="React" />
+</a>
+
+<!-- Power BI -->
+<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg"
+        width="36" height="36" alt="Power BI" />
+</a>
+
+<!-- Jupyter Notebook -->
+<a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jupyter-colored.svg"
+        width="36" height="36" alt="Jupyter Notebook" />
+</a>
+
+<!-- Cypress -->
+<a href="https://www.cypress.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cypress-colored.svg"
+        width="36" height="36" alt="Cypress" />
+</a>
+
 </p>
 
 
