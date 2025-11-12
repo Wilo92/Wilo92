@@ -131,17 +131,7 @@
 </a>
 
 
-<!-- Jupyter -->
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"
-       width="36" height="36" alt="Jupyter Notebook" />
-</a>
 
-<!-- Cypress -->
-<a href="https://www.cypress.io/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg"
-       width="36" height="36" alt="Cypress" />
-</a>
 
 
 
