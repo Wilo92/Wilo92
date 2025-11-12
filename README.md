@@ -113,6 +113,7 @@
 </a>
 
 
+
 <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg"
         width="36" height="36" alt="Power BI" />
@@ -120,15 +121,22 @@
 
 
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jupyter-colored.svg"
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"
         width="36" height="36" alt="Jupyter Notebook" />
 </a>
 
 
 <a href="https://www.cypress.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cypress-colored.svg"
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cypress.svg"
         width="36" height="36" alt="Cypress" />
 </a>
+
+
+
+
+
+
+
 
 </p>
 
