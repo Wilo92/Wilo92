@@ -93,8 +93,7 @@
 ![Overview](https://github-profile-summary-cards.vercel.app/api/cards/overview?username=Wilo92&theme=default)
 
 <!-- WakaTime -->
-<!----
-[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=restrepo&theme=default)](https://wakatime.com/@restrepo)----->
+
 
 <!-- Trofeos y racha -->
 ![Trophy](https://github-profile-trophy.vercel.app/?username=Wilo92&theme=flat&no-frame=true)
