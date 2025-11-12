@@ -126,8 +126,9 @@
 
 <!-- Cypress -->
 <a href="https://www.cypress.io/" target="_blank" rel="noreferrer">
-  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/cypress.svg?raw=true"
+  <img href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"
        width="36" height="36" alt="Cypress" />
+	
 </a>
 
 
