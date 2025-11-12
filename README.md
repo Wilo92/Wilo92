@@ -131,6 +131,23 @@
         width="36" height="36" alt="Cypress" />
 </a>
 
+<!-- Power BI -->
+<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/powerbi.svg"
+        width="36" height="36" alt="Power BI" />
+</a>
+
+<!-- Jupyter Notebook -->
+<a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/jupyter.svg"
+        width="36" height="36" alt="Jupyter Notebook" />
+</a>
+
+<!-- Cypress -->
+<a href="https://www.cypress.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/cypress.svg"
+        width="36" height="36" alt="Cypress" />
+</a>
 
 
 
