@@ -112,46 +112,23 @@
         width="36" height="36" alt="React" />
 </a>
 
-
-
-<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg"
-        width="36" height="36" alt="Power BI" />
-</a>
-
-
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"
-        width="36" height="36" alt="Jupyter Notebook" />
-</a>
-
-
-<a href="https://www.cypress.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cypress.svg"
-        width="36" height="36" alt="Cypress" />
-</a>
-
 <!-- Power BI -->
 <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/powerbi.svg"
-        width="36" height="36" alt="Power BI" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/powerbi/powerbi-original.svg?raw=true"
+       width="36" height="36" alt="Power BI" />
 </a>
 
-<!-- Jupyter Notebook -->
+<!-- Jupyter -->
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/jupyter.svg"
-        width="36" height="36" alt="Jupyter Notebook" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg?raw=true"
+       width="36" height="36" alt="Jupyter Notebook" />
 </a>
 
 <!-- Cypress -->
 <a href="https://www.cypress.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/cypress.svg"
-        width="36" height="36" alt="Cypress" />
+  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/cypress.svg?raw=true"
+       width="36" height="36" alt="Cypress" />
 </a>
-
-
-
-
 
 
 
