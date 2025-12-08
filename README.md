@@ -3,7 +3,7 @@
 <!-------otra version--->
 
 <img src="https://media.giphy.com/media/dDXvPplYROQSs/giphy.gif" width="150"/>
-<h1> Hi , I am Wilmer Restrepo</h1>
+<h2> Hi , I am Wilmer Restrepo</h2>
 
 ![banner](github-header-image.png)
 
@@ -13,7 +13,7 @@
 
 <br>
 
-## <picture><img src="https://media.giphy.com/media/dDXvPplYROQSs/giphy.gif" width="50px"></picture> **About me**
+## <picture><img src="https://media.giphy.com/media/dDXvPplYROQSs/giphy.gif" width="70px"></picture> **About me**
 
 <picture> 
   <img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="250px">
@@ -24,7 +24,7 @@
 - System Engineer Bachelor´s, a passionate full stack developer.  
 - Specialization in software development  
 - Networks administrator.  
-- Personal website [link](https://wilo92.github.io/myhdv/)  
+- My personal website [link](https://wilo92.github.io/myhdv/)  
 - PHP / Laravel / JavaScript / React / HTML / CSS / SQL / Power BI / Jupyter Notebook / Cypress / Git.  
 - I’m currently open for a new job opportunity  
 
