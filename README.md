@@ -25,7 +25,7 @@
 - Specialization in software development  
 - Networks administrator.  
 - My personal website [link](https://wilo92.github.io/myhdv/)  
-- PHP / Laravel / JavaScript / React / HTML / CSS / SQL / Power BI / Jupyter Notebook / Cypress / Git.  
+FastApi / Laravel / React / HTML / CSS / SQL / Power BI / Jupyter Notebook / Cypress / Git.  
 - I’m currently open for a new job opportunity  
 
 <br><br>
