@@ -79,29 +79,18 @@ FastApi / Laravel / React / HTML / CSS / SQL / Power BI / Jupyter Notebook / Cyp
 <br>
 GitHub stats are based on my public repositories (Wilo92) and WakaTime stats are based on my personal coding activity (@restrepo)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wilo92&layout=compact)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Wilo92)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Wilo92)
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wilo92)
-![Trophies](https://github-profile-trophy.vercel.app/?username=Wilo92&no-frame=true)
-[![WakaTime](https://wakatime.com/badge/user/restrepo.svg)](https://wakatime.com/@restrepo)   ////dejar este
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Wilo92)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wilo92&show_icons=true&include_all_commits=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Wilo92)
-![Trophies](https://github-profile-trophy.vercel.app/?username=Wilo92&no-frame=true)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=restrepo&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
+## Coding Activity
+[![WakaTime](https://wakatime.com/badge/user/restrepo.svg)](https://wakatime.com/@restrepo)
+
+
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wilo92&theme=default)
+
 ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Wilo92&theme=default)
 ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Wilo92&theme=default)
-![Trophy](https://github-profile-trophy.vercel.app/?username=Wilo92&theme=flat&no-frame=true)
+
+
 ![Streak](https://github-readme-streak-stats.herokuapp.com?user=Wilo92&theme=default)
-[![WakaTime](https://wakatime.com/badge/user/restrepo.svg)](https://wakatime.com/@restrepo)
-![WakaTime Languages](https://wakatime.com/share/@restrepo/7b9c9e6e-6c3d-4d3f-9a6e-0a5f8e2e5d21.svg)
-[![WakaTime](https://wakatime.com/badge/user/restrepo.svg)](https://wakatime.com/@restrepo)
-
-![WakaTime Languages](https://wakatime.com/share/@restrepo/TU-ID.svg)
-
-
 
 
 <p align="center">
