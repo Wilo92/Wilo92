@@ -77,6 +77,8 @@ FastApi / Laravel / React / HTML / CSS / SQL / Power BI / Jupyter Notebook / Cyp
 
 ### Stats & Analytics
 <br>
+GitHub stats are based on my public repositories (Wilo92) and WakaTime stats are based on my personal coding activity (@restrepo)
+
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=restrepo&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
