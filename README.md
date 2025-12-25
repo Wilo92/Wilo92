@@ -1,7 +1,3 @@
-
-
-<!-------otra version--->
-
 <img src="https://media.giphy.com/media/dDXvPplYROQSs/giphy.gif" width="150"/>
 <h2> Hi , I am Wilmer Restrepo</h2>
 
@@ -13,7 +9,7 @@
 
 <br>
 
-## <picture><img src="https://media.giphy.com/media/dDXvPplYROQSs/giphy.gif" width="70px"></picture> **About me**
+## <picture><img src="https://media.giphy.com/media/dDXvPplYROQSs/giphy.gif" width="99px"></picture> **About me**
 
 <picture> 
   <img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="250px">
@@ -28,16 +24,16 @@
 FastApi / Laravel / React / HTML / CSS / SQL / Power BI / Jupyter Notebook / Cypress / Git.  
 - I’m currently open for a new job opportunity  
 
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-<div align='center'></div>
 <br>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-### 🧠 Skills
+<div align='center'></div>
+
+
+
+
+### Skills
 
 <p align="left">
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
@@ -63,7 +59,7 @@ FastApi / Laravel / React / HTML / CSS / SQL / Power BI / Jupyter Notebook / Cyp
 
 ---
 
-### 🌐 Socials
+### Socials
 
 <p align="left">
     <a href="https://www.github.com/Wilo92" target="_blank" rel="noreferrer">
@@ -79,58 +75,40 @@ FastApi / Laravel / React / HTML / CSS / SQL / Power BI / Jupyter Notebook / Cyp
 
 ---
 
-### 📊 Stats & Analytics
+### Stats & Analytics
 <br>
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=restrepo&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-<!-- PERFIL CON GITHUB PROFILE SUMMARY CARDS (fondo blanco) -->
+
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wilo92&theme=default)
 ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Wilo92&theme=default)
 ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Wilo92&theme=default)
-![Overview](https://github-profile-summary-cards.vercel.app/api/cards/overview?username=Wilo92&theme=default)
-
-<!-- WakaTime -->
 
 
-<!-- Trofeos y racha -->
+
 ![Trophy](https://github-profile-trophy.vercel.app/?username=Wilo92&theme=flat&no-frame=true)
 ![Streak](https://github-readme-streak-stats.herokuapp.com?user=Wilo92&theme=default)
 
-<!-- ======= ADICIONES PROFESIONALES ======= -->
-<!-- Banner animado -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:92FE9D&height=140&section=header&text=👋%20Hi!%20I'm%20Wilmer%20Restrepo&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 </p>
 
-<!-- Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blue?style=for-the-badge&logo=visualstudiocode" />
-  <img src="https://img.shields.io/badge/Code-Laravel%2C%20PHP%2C%20React%2C%20JS-orange?style=for-the-badge&logo=laravel" />
-  <img src="https://img.shields.io/badge/Learning-Cypress%20%26%20Testing-green?style=for-the-badge&logo=cypress" />
-  <img src="https://img.shields.io/badge/Open%20to%20Work-💼-brightgreen?style=for-the-badge" />
-</p>
-
-<!-- Lowlighter / Full Metrics (example usage; if you prefer a specific template, swap parameters) -->
-<p align="center">
-  <!-- Lowlighter metrics example (replace or configure in project for more customization) -->
-  <img alt="GitHub Metrics" src="https://github-readme-metrics.vercel.app/api?username=Wilo92&template=classic&theme=tokyonight" />
-</p>
-
-<!-- Activity heatmap / activity graph -->
-<p align="center">
-  [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Wilo92&bg_color=0D1117&color=00FFDB&line=00C9A7&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</p>
 
 
 
 
-## 📫 Contact & Hire me
-- ✉️ Email: wilmerrestrepoo@hotmail.com
-- 🔗 LinkedIn: https://www.linkedin.com/in/wilmer-restrepo-830544242/  
-- 🌐 Portfolio: https://wilo92.github.io/myhdv/  
+
+
+
+
+## Contact & Hire me
+-  Email: wilmerrestrepoo@hotmail.com
+-  LinkedIn: https://www.linkedin.com/in/wilmer-restrepo-830544242/  
+-  Portfolio: https://wilo92.github.io/myhdv/  
 
 
 
