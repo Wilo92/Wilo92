@@ -111,6 +111,67 @@ GitHub stats are based on my public repositories (Wilo92) and WakaTime stats are
 -  Portfolio: https://wilo92.github.io/myhdv/  
 
 
+# 👋 Hi! I'm Wilmer Restrepo
+
+💻 Software Developer | 🏛️ Gov-Tech | 📊 Data & Audit Systems  
+📍 Colombia
+
+---
+
+## 🚀 About me
+
+I'm a software developer focused on building and maintaining **information systems for public entities**, especially related to **fiscal control, audits, and data reporting platforms**.
+
+I enjoy working on:
+- Backend development
+- Process automation
+- Data validation & reporting
+- Long-living systems (legacy + modernization)
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+- PHP
+- Python
+- JavaScript
+- HTML / CSS
+
+**Frameworks & Tools**
+- Laravel
+- VS Code
+- Git & GitHub
+- WakaTime
+- Linux / Windows
+
+**Databases**
+- MySQL
+- PostgreSQL
+
+---
+
+## ⏱️ Coding Activity (WakaTime)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+> Stats updated automatically using WakaTime 📈
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Wilo92&show_icons=true&theme=transparent)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wilo92&layout=compact&theme=transparent)
+
+---
+
+## 📫 Contact
+
+- GitHub: [@Wilo92](https://github.com/Wilo92)
+- WakaTime: https://wakatime.com/@restrepo
 
 
 
