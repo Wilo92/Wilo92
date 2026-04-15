@@ -9,7 +9,7 @@
 
 <br>
 
-## <picture><img src="https://media.giphy.com/media/dDXvPplYROQSs/giphy.gif" width="99px"></picture> **About me**
+##  **About me**
 
 <picture> 
   <img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="250px">
@@ -17,12 +17,16 @@
 
 <br>
 
-- System Engineer Bachelor´s, a passionate full stack developer.  
-- Specialization in software development  
-- Networks administrator.  
-- My personal website [link](https://wilo92.github.io/myhdv/)  
-FastApi / Laravel / React / HTML / CSS / SQL / Power BI / Jupyter Notebook / Cypress / Git.  
-- I’m currently open for a new job opportunity  
+System Engineer Bachelor’s | Fullstack Developer  
+
+- Specialized in Software Development  
+- Experience in Backend (FastAPI, Laravel) and Frontend (React)  
+- Strong background in data processing and analysis (Python, SQL, Power BI, Jupyter)  
+- Knowledge in Network Administration and Government Auditing  
+
+Tech Stack: FastAPI · Laravel · React · Python · SQL · Power BI · Git  
+
+Open to new opportunities
 
 <br>
 
@@ -105,10 +109,6 @@ GitHub stats are based on my public repositories (Wilo92) and WakaTime stats are
 
 
 
-## Contact & Hire me
--  Email: wilmerrestrepoo@hotmail.com
--  LinkedIn: https://www.linkedin.com/in/wilmer-restrepo-830544242/  
--  Portfolio: https://wilo92.github.io/myhdv/  
 
 
 # 👋 Hi! I'm Wilmer Restrepo
@@ -170,6 +170,12 @@ I enjoy working on:
 
 ## 📫 Contact
 
+
+## Contact & Hire me
+- Email: wilmerrestrepoo@hotmail.com
+- LinkedIn: https://www.linkedin.com/in/wilmer-restrepo-830544242/  
+- Personal web 1: //www.wilolink.online
+- Personal project: //www.crediorbit.com 
 - GitHub: [@Wilo92](https://github.com/Wilo92)
 - WakaTime: https://wakatime.com/@restrepo
 
