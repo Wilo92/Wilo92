@@ -17,6 +17,16 @@
 
 System Engineer Bachelor’s | Fullstack Developer  
 
+
+
+I'm a software developer focused on building and maintaining **information systems for public entities**, especially related to **fiscal control, audits, and data reporting platforms**.
+
+I enjoy working on:
+- Backend development
+- Process automation
+- Data validation & reporting
+
+Experience
 - Specialized in Software Development  
 - Experience in Backend (FastAPI, Laravel) and Frontend (React)  
 - Data analysis (Python, Power BI, Jupyter)
@@ -24,6 +34,24 @@ System Engineer Bachelor’s | Fullstack Developer
 - Systems auditor
 
 Open to new opportunities
+
+**Languages**
+- PHP
+- Python
+- JavaScript
+- HTML / CSS
+- SQL
+
+**Frameworks & Tools**
+- Laravel
+- VS Code
+- Git & GitHub
+- FastApi
+- React
+
+**Databases**
+- MySQL
+- PostgreSQL
 
 <br>
 
@@ -38,25 +66,25 @@ Open to new opportunities
 
 <p align="left">
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-    <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-    <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a>
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-    <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-    <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
-    <a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a>
     <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
     <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-    <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/powerbi/powerbi-original.svg" width="36" height="36" alt="Power BI" /></a>
-    <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width="36" height="36" alt="Jupyter Notebook" /></a>
-    <a href="https://www.cypress.io/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-original.svg" width="36" height="36" alt="Cypress" /></a>
+    <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="36" height="36" alt="FastAPI" />
+</a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL" />
+</a>
+<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="36" height="36" alt="Power BI" />
+</a>
+  
 </p>
+
+
+
 
 ---
 
@@ -99,56 +127,9 @@ GitHub stats are based on my public repositories (Wilo92) and WakaTime stats are
 </p>
 
 
-
-
-
-
-
-
-
-
-
-# 👋 Hi! I'm Wilmer Restrepo
-
-💻 Software Developer | 🏛️ Gov-Tech | 📊 Data & Audit Systems  
-📍 Colombia
-
 ---
 
-## 🚀 About me
-
-I'm a software developer focused on building and maintaining **information systems for public entities**, especially related to **fiscal control, audits, and data reporting platforms**.
-
-I enjoy working on:
-- Backend development
-- Process automation
-- Data validation & reporting
-- Long-living systems (legacy + modernization)
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-- PHP
-- Python
-- JavaScript
-- HTML / CSS
-
-**Frameworks & Tools**
-- Laravel
-- VS Code
-- Git & GitHub
-- WakaTime
-- Linux / Windows
-
-**Databases**
-- MySQL
-- PostgreSQL
-
----
-
-## ⏱️ Coding Activity (WakaTime)
+##  Coding Activity (WakaTime)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
@@ -157,7 +138,7 @@ I enjoy working on:
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Wilo92&show_icons=true&theme=transparent)
 
@@ -165,9 +146,7 @@ I enjoy working on:
 
 ---
 
-## 📫 Contact
-
-
+## Contact
 ## Contact & Hire me
 - Email: wilmerrestrepoo@hotmail.com
 - LinkedIn: https://www.linkedin.com/in/wilmer-restrepo-830544242/  
