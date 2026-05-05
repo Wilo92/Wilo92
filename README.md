@@ -1,8 +1,6 @@
-<img src="https://media.giphy.com/media/dDXvPplYROQSs/giphy.gif" width="150"/>
+
 <h2> Hi , I am Wilmer Restrepo</h2>
-
-![banner](github-header-image.png)
-
+<img src="https://media.giphy.com/media/dDXvPplYROQSs/giphy.gif" width="150"/>
 <p align="center">
   <a href="https://github.com/Wilo92"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=blue&size=25&center=true&vCenter=true&width=600&height=100&lines=Wilmer+Restrepo..&hearts;++;System+Engineer;I+am+from+Colombia,;Love+to+learn+new+stuffs..XD"></a>
 </p>
@@ -21,10 +19,9 @@ System Engineer Bachelor’s | Fullstack Developer
 
 - Specialized in Software Development  
 - Experience in Backend (FastAPI, Laravel) and Frontend (React)  
-- Strong background in data processing and analysis (Python, SQL, Power BI, Jupyter)  
-- Knowledge in Network Administration and Government Auditing  
-
-Tech Stack: FastAPI · Laravel · React · Python · SQL · Power BI · Git  
+- Data analysis (Python, Power BI, Jupyter)
+- Network administrator
+- Systems auditor
 
 Open to new opportunities
 
