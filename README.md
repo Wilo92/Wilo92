@@ -115,6 +115,17 @@ Open to new opportunities
 
 
 
+## ⏱️ Coding Activity (WakaTime)
+
+[![WakaTime](https://wakatime.com/badge/user/restrepo.svg)](https://wakatime.com/@restrepo)
+
+<!--START_SECTION:waka-->
+
+
+
+
+<!--END_SECTION:waka-->
+
 
 
 
