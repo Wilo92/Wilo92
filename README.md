@@ -157,6 +157,8 @@ CSS                        21 mins               ██░░░░░░░░�
 
 [![wakatime](https://wakatime.com/badge/user/restrepo.svg)](https://wakatime.com/@restrepo)
 
+
+<figure><embed src="https://wakatime.com/share/@restrepo/66946d84-6c57-49a5-b7a6-7c84d7645455.svg"></embed></figure>
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@restrepo/67982e48-0106-4e68-a7b7-294d175a4ced.png" /></a>
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@restrepo/82bba440-223f-48d9-8d81-6f0bed71c21b.png" /></a>
