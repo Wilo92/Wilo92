@@ -130,25 +130,17 @@ Open to new opportunities
 [![WakaTime](https://wakatime.com/badge/user/restrepo.svg)](https://wakatime.com/@restrepo)
 
 <!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
-> Stats updated automatically 📈
+```txt
+From: 18 May 2026 - To: 25 May 2026
 
----
+PHP                        1 hr 30 mins          ███████▓░░░░░░░░░░░░░░░░░   30.32 %
+Markdown                   56 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.86 %
+Other                      42 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.11 %
+JavaScript                 26 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.00 %
+CSS                        21 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 %
+```
 
-## 🗂️ GitHub Public Repos
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wilo92&theme=github_dark" width="100%"/>
-</p>
-
-
-
-
-
-## ⏱️ Coding Activity (WakaTime)
-
-<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 <p align="center">
