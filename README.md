@@ -142,6 +142,15 @@ Open to new opportunities
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wilo92&theme=github_dark" width="100%"/>
 </p>
 
+
+
+
+
+## ⏱️ Coding Activity (WakaTime)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Wilo92&theme=github_dark" width="48%"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Wilo92&theme=github_dark" width="48%"/>
