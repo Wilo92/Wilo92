@@ -102,55 +102,13 @@ Open to new opportunities
     </a>
 </p>
 
----
 
-### Stats & Analytics
-<br>
-GitHub stats are based on my public repositories (Wilo92) and WakaTime stats are based on my personal coding activity (@restrepo)
-
-
-## Coding Activity
-[![WakaTime](https://wakatime.com/badge/user/restrepo.svg)](https://wakatime.com/@restrepo)
-
-
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wilo92&theme=default)
-
-![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Wilo92&theme=default)
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Wilo92&theme=default)
-
-
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=Wilo92&theme=default)
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:92FE9D&height=140&section=header&text=👋%20Hi!%20I'm%20Wilmer%20Restrepo&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
-</p>
-
-
----
-
-##  Coding Activity (WakaTime)
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-> Stats updated automatically using WakaTime 📈
-
----
-
-##  GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Wilo92&show_icons=true&theme=transparent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wilo92&layout=compact&theme=transparent)
-
----
 
 ## Contact
 ## Contact & Hire me
 - Email: wilmerrestrepoo@hotmail.com
 - LinkedIn: https://www.linkedin.com/in/wilmer-restrepo-830544242/  
-- Personal web 1: //www.wilolink.online
+- Personal web: //www.wilolink.online
 - Personal project: //www.crediorbit.com 
 - GitHub: [@Wilo92](https://github.com/Wilo92)
 - WakaTime: https://wakatime.com/@restrepo
@@ -158,3 +116,38 @@ GitHub stats are based on my public repositories (Wilo92) and WakaTime stats are
 
 
 
+
+
+
+### Stats & Analytics
+
+> 📌 GitHub stats reflect my **public repositories** · WakaTime stats reflect my **real coding activity**
+
+---
+
+## ⏱️ Coding Activity (WakaTime)
+
+[![WakaTime](https://wakatime.com/badge/user/restrepo.svg)](https://wakatime.com/@restrepo)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+> Stats updated automatically 📈
+
+---
+
+## 🗂️ GitHub Public Repos
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wilo92&theme=github_dark" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Wilo92&theme=github_dark" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Wilo92&theme=github_dark" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Wilo92&theme=github-dark-blue" width="60%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Wilo92&show_icons=true&theme=github_dark&hide_border=true" width="48%"/>
+</p>
