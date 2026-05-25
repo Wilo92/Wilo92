@@ -125,24 +125,6 @@ Open to new opportunities
 
 ---
 
-## ⏱️ Coding Activity (WakaTime)
-
-[![WakaTime](https://wakatime.com/badge/user/restrepo.svg)](https://wakatime.com/@restrepo)
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 18 May 2026 - To: 25 May 2026
-
-PHP                        1 hr 30 mins          ███████▓░░░░░░░░░░░░░░░░░   30.32 %
-Markdown                   56 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.86 %
-Other                      42 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.11 %
-JavaScript                 26 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.00 %
-CSS                        21 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 %
-```
-
-<!--END_SECTION:waka-->
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Wilo92&theme=github_dark" width="48%"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Wilo92&theme=github_dark" width="48%"/>
