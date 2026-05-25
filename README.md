@@ -168,3 +168,7 @@ CSS                        21 mins               ██░░░░░░░░�
 
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@restrepo/51d0f2f0-33d2-4ad4-b97b-d311fb572f5b.png" /></a>
+
+<figure><embed src="https://wakatime.com/share/@restrepo/5ef46f6c-afdf-432b-92f6-01706513e0c0.svg"></embed></figure>
+
+<figure><embed src="https://wakatime.com/share/@restrepo/dc43cad3-a3f1-4e08-ad3e-5695ef25e73a.svg"></embed></figure>
