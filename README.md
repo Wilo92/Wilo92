@@ -19,7 +19,7 @@
   <img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="220px"/>
 </picture>
 
-System Engineer | Fullstack Developer  — fiscal control, audits, and data reporting platforms.
+Systems Engineer | Software Development Specialist | Full-Stack Developer — Network Administrator, Systems Auditor.
 
 **What I do:**
 - Backend development (Laravel, FastAPI)
