@@ -152,3 +152,7 @@ CSS                        21 mins               ██░░░░░░░░�
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Wilo92&theme=github-dark-blue" width="60%"/>
   <img src="https://github-readme-stats.vercel.app/api?username=Wilo92&show_icons=true&theme=github_dark&hide_border=true" width="48%"/>
 </p>
+
+
+
+[![wakatime](https://wakatime.com/badge/user/restrepo.svg)](https://wakatime.com/@restrepo)
