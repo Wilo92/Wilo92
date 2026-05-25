@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
+  <img src="https://media.giphy.com/media/dDXvPplYROQSs/giphy.gif" width="40"/>
   Hi, I'm Wilmer Restrepo
 </h1>
 
@@ -13,13 +13,13 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 <picture>
   <img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="220px"/>
 </picture>
 
-System Engineer | Fullstack Developer focused on **information systems for public entities** — fiscal control, audits, and data reporting platforms.
+System Engineer | Fullstack Developer  — fiscal control, audits, and data reporting platforms.
 
 **What I do:**
 - Backend development (Laravel, FastAPI)
@@ -28,13 +28,13 @@ System Engineer | Fullstack Developer focused on **information systems for publi
 - Network administration & systems auditing
 - Data analysis (Python, Power BI, Jupyter)
 
-**Open to new opportunities** 🚀
+**Open to new opportunities** 
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <p align="left">
   <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git"/></a>
@@ -50,19 +50,26 @@ System Engineer | Fullstack Developer focused on **information systems for publi
 
 ---
 
-## ⏱️ Coding Activity (WakaTime)
+##  Coding Activity (WakaTime)
 
-> Real coding activity tracked by WakaTime · GitHub stats reflect public repositories only
+> Stats based on my real coding activity tracked by WakaTime
 
 [![wakatime](https://wakatime.com/badge/user/restrepo.svg)](https://wakatime.com/@restrepo)
 
-### Last 7 Days
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
+### All Time Languages
+<a href="https://wakatime.com/@restrepo">
+  <img src="https://wakatime.com/share/@restrepo/67982e48-0106-4e68-a7b7-294d175a4ced.png" width="70%"/>
+</a>
+
+### All Time Activity
+<a href="https://wakatime.com/@restrepo">
+  <img src="https://wakatime.com/share/@restrepo/82bba440-223f-48d9-8d81-6f0bed71c21b.png" width="70%"/>
+</a>
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 > Stats based on my public repositories ([@Wilo92](https://github.com/Wilo92))
 
@@ -71,9 +78,14 @@ System Engineer | Fullstack Developer focused on **information systems for publi
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Wilo92&theme=github-dark-blue&hide_border=true" width="48%"/>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Wilo92&theme=github_dark" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Wilo92&theme=github_dark" width="48%"/>
+</p>
+
 ---
 
-## 🌐 Connect with Me
+##  Connect with Me
 
 <p align="left">
   <a href="https://www.github.com/Wilo92" target="_blank">
@@ -89,9 +101,9 @@ System Engineer | Fullstack Developer focused on **information systems for publi
 
 | | |
 |---|---|
-| 📧 Email | wilmerrestrepoo@hotmail.com |
-| 🌍 Web | [wilolink.online](https://www.wilolink.online) |
-| 🚀 Project | [crediorbit.com](https://www.crediorbit.com) |
-| ⏱️ WakaTime | [wakatime.com/@restrepo](https://wakatime.com/@restrepo) |
+|  Email | wilmerrestrepoo@hotmail.com |
+|  Web | [wilolink.online](https://www.wilolink.online) |
+|  Project | [crediorbit.com](https://www.crediorbit.com) |
+|  WakaTime | [wakatime.com/@restrepo](https://wakatime.com/@restrepo) |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
