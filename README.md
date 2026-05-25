@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/Wilo92">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00C9A7&size=22&center=true&vCenter=true&width=600&height=60&lines=System+Engineer+%7C+Fullstack+Developer;Backend+%7C+PHP+%7C+Python+%7C+JavaScript;Building+systems+for+public+entities;From+Colombia+🇨🇴"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00C9A7&size=22&center=true&vCenter=true&width=600&height=60&lines=System+Engineer+%7C+Fullstack+Developer;PHP+%7C+Python+%7C+JavaScript;From+Colombia+🇨🇴"/>
   </a>
 </p>
 
@@ -13,13 +13,13 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 <picture>
   <img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="220px"/>
 </picture>
 
-System Engineer | Fullstack Developer focused on **information systems for public entities** — fiscal control, audits, and data reporting platforms.
+System Engineer | Fullstack Developer  — fiscal control, audits, and data reporting platforms.
 
 **What I do:**
 - Backend development (Laravel, FastAPI)
@@ -28,13 +28,13 @@ System Engineer | Fullstack Developer focused on **information systems for publi
 - Network administration & systems auditing
 - Data analysis (Python, Power BI, Jupyter)
 
-**Open to new opportunities** 🚀
+**Open to new opportunities** 
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <p align="left">
   <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git"/></a>
@@ -50,15 +50,12 @@ System Engineer | Fullstack Developer focused on **information systems for publi
 
 ---
 
-## ⏱️ Coding Activity (WakaTime)
+##  Coding Activity (WakaTime)
 
 > Stats based on my real coding activity tracked by WakaTime
 
 [![wakatime](https://wakatime.com/badge/user/restrepo.svg)](https://wakatime.com/@restrepo)
 
-### Last 7 Days
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ### All Time Languages
 <a href="https://wakatime.com/@restrepo">
@@ -72,7 +69,7 @@ System Engineer | Fullstack Developer focused on **information systems for publi
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 > Stats based on my public repositories ([@Wilo92](https://github.com/Wilo92))
 
@@ -88,7 +85,7 @@ System Engineer | Fullstack Developer focused on **information systems for publi
 
 ---
 
-## 🌐 Connect with Me
+##  Connect with Me
 
 <p align="left">
   <a href="https://www.github.com/Wilo92" target="_blank">
@@ -104,9 +101,9 @@ System Engineer | Fullstack Developer focused on **information systems for publi
 
 | | |
 |---|---|
-| 📧 Email | wilmerrestrepoo@hotmail.com |
-| 🌍 Web | [wilolink.online](https://www.wilolink.online) |
-| 🚀 Project | [crediorbit.com](https://www.crediorbit.com) |
-| ⏱️ WakaTime | [wakatime.com/@restrepo](https://wakatime.com/@restrepo) |
+|  Email | wilmerrestrepoo@hotmail.com |
+|  Web | [wilolink.online](https://www.wilolink.online) |
+|  Project | [crediorbit.com](https://www.crediorbit.com) |
+|  WakaTime | [wakatime.com/@restrepo](https://wakatime.com/@restrepo) |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
