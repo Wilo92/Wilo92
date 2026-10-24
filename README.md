@@ -102,9 +102,9 @@ Systems Engineer | Software Development Specialist | Full-Stack Developer — Ne
 | | |
 |---|---|
 |  Email | wilmerrestrepoo@hotmail.com |
-|  Web | [wilolink.online](https://www.wilolink.com) |
+|  Web | [wilolink.com](https://www.wilolink.com) |
 |  Project | [crediorbit.com](https://www.crediorbit.com) |
-|  Project | [crediorbit.com](https://www.loencargo.com) |
+|  Project1 | [loencargo.com](https://www.loencargo.com) |
 |  WakaTime | [wakatime.com/@restrepo](https://wakatime.com/@restrepo) |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
